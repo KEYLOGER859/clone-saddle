@@ -1,0 +1,8 @@
+{
+  "name": "OFF THE SADDLE — OBJECTS",
+  "description": "An interactive exhibition and chronicle of artisan jewellery from India.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
